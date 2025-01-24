@@ -1,0 +1,32 @@
+.main {
+  text-align: center;
+}
+
+button {
+  padding: 10px;
+  background-color: blueviolet;
+  border-radius: 5px;
+  border-style: none;
+  color: white;
+  font-size: 20px;
+}
+
+button:hover {
+  background-color: rgb(97, 96, 99);
+}
+
+input {
+  padding: 10px;
+  border-radius: 5px;
+  border-color: blueviolet;
+  width: 350px;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.completed {
+  text-decoration: line-through;
+}
